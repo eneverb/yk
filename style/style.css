@@ -1,0 +1,31 @@
+.search {
+    margin: 1rem 0;
+}
+
+.search input {
+    width: 100%;
+    padding: 1rem;
+}
+
+.video-item img {
+    max-width: 64px;
+}
+
+.video .details {
+    background-color: #444;
+    color: #fff;
+    padding: 0.5rem;
+}
+
+.media-heading {
+    padding: 0 15px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover{
+    background-color: #444;
+    color: #fff;
+}
